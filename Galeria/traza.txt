@@ -1,0 +1,6 @@
+Comprador
+Logica.Comprador@4554617c
+ ArtistaLogica.Artista@74a14482
+ Numero de Obras: 0
+Obras: 
+
